@@ -47,9 +47,11 @@ Instalación recomendada:
 El dataset se encuentra incluido en el repositorio bajo el nombre:
 top_movies.csv
 
+📜 Licencia
+Este proyecto es solo con fines educativos y de análisis. No tiene fines comerciales.
+
 ```bash
 pip install pandas matplotlib
 
-📜 Licencia
-Este proyecto es solo con fines educativos y de análisis. No tiene fines comerciales.
+
 
